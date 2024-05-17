@@ -1,0 +1,10 @@
+
+unlinkshift-- borrar archivo
+mkdirSyn-- crear carpeta
+readdirSync-- leer carpeta 
+rmdirSync-- borrar carpeta
+
+gitignore.. 
+siempre para ignorar la carpte de node_modules/ se coloca la '/' para indicar que es una carpeta
+
+npm install  => para instalar denuevo las dependencias o crear node_modules de nuevo.
